@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\bin\Debug\Vit.exe.config
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\bin\Debug\Vit.exe
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\bin\Debug\Vit.pdb
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\obj\Debug\Vit.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\obj\Debug\Vit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\obj\Debug\Vit.exe
+C:\Users\User\Desktop\Vitec_Var18\Vit\Vit\obj\Debug\Vit.pdb
